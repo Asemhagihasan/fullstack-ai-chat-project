@@ -2,5 +2,6 @@ bin/
 obj/
 out/
 .vs/
+publish/
 *.db-shm
 *.db-wal
